@@ -10,7 +10,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Majd Alshalabi </span>
             from <span className="purple"> Damascus, Syria.</span>
             <br />
-            currently living in <span className="purple"> UAE</span>.
+            currently living in <span className="purple"> Syria</span>.
             <br />
             And I am currently employed as a software developer at <span className="purple"> TC OF TC</span>.
             <br />
